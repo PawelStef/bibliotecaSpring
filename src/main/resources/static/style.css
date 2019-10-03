@@ -23,6 +23,24 @@ body {
     color: #5a5a5a;
 }
 
+main {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color: navy;
+    background-color: lightcyan;
+}
+
+footer {
+    padding-top: 1rem;
+    color: whitesmoke;
+    background-color: #5a5a5a;
+}
+
+.form-inline {
+    margin: 2rem;
+
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -104,3 +122,10 @@ body {
     }
 }
 
+.form-container{
+    border: solid 1px #c3c3c3;
+}
+.form-row-container{
+    background-color: azure;
+    padding: 10px;
+}
